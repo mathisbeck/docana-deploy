@@ -78,8 +78,8 @@ For our sentiment analysis we have used the [_roberta-base-go_emotions_](https:/
 ## Interactive Visualization
 The interactive visualization can be found [her](https://mathisbeck.github.io/docana-deploy/). The frontend was build using angular and the map realization was done via leaflet. There are two views: distribution (see Figure 4) and sentiment (see Figure 5). The distribution view contains a choropleth map and the sentiment view maps each emotion to an emoji and displays only the top three on the map. 
 
-![](<screenshot iv_distro.png>)
+![](<Screenshot iv_distro.png>)
 <p style="text-align: center;"> Figure 4: Distribution view. </p>
 
-![](<screenshot iv_emotions.png>)
+![](<Screenshot iv_emotions.png>)
 <p style="text-align: center;"> Figure 5: Sentiment view. </p>
